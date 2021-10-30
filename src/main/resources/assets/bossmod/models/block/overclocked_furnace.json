@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "bossmod:block/overclocked_furnace_top",
+    "front": "bossmod:block/overclocked_furnace_front",
+    "side": "bossmod:block/overclocked_furnace_side"
+  }
+}

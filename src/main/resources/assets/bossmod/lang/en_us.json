@@ -1,0 +1,13 @@
+{
+  "itemGroup.bossmod.general": "Bossmod General",
+  "itemGroup.bossmod.bossdrops": "Bossmod Boss Drops",
+  "itemGroup.bossmod.mobdrops": "Bossmod Mob Drops",
+  "itemGroup.bossmod.terrain": "Bossmod Terrain",
+  "item.bossmod.unnatural_large_chest": "§1Unnaturally Large Chest",
+  "block.bossmod.overclocked_furnace": "§1Overclocked Furnace",
+  "block.bossmod.unnatural_large_chest": "§1Unnaturally Large Chest",
+  "container.overclocked_furnace": "§1Overclocked Furnace",
+  "container.unnatural_large_chest": "§1Unnaturally Large Chest",
+  "container.unnatural_large_chest.double": "§1Unnaturally Large Double Chest",
+  "biome.bossmod.petrified_oak_forest": "Petrified Oak Forest"
+}
